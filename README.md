@@ -1,5 +1,5 @@
 ![logo-blue](https://user-images.githubusercontent.com/51039935/197520391-f35db354-6071-4c12-86ea-fc450f04bc85.png)
-# NAS媒体库管理工具-免认证解锁版
+# NAS媒体库管理工具
 
 [![GitHub stars](https://img.shields.io/github/stars/NAStool/nas-tools?style=plastic)](https://github.com/NAStool/nas-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/NAStool/nas-tools?style=plastic)](https://github.com/NAStool/nas-tools/network/members)
@@ -11,7 +11,6 @@
 
 Docker：https://hub.docker.com/repository/docker/challengerv/nas-tools
 
-TG频道：https://t.me/nastool_official (官方)
 
 Wiki：https://t.me/NAStool_wiki
 
